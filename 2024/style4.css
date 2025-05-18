@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-position: center;
+    background-size: cover;
+    background-image: url("./images/header_back.jpg");
+    background-attachment: fixed;
+    font-family: 'EB Garamond', serif;
+    letter-spacing: 1px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    /* min-width: 200px; */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .org_comm_headings {
+    font-weight: bold;
+    color: #555;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .committee-button:focus {
+    outline: none;
+  }
+  .dropdown-menu {
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+  }
+  .dropdown-menu.hidden {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  .footer{
+    z-index: 20;
+  }

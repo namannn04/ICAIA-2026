@@ -1,8 +1,4 @@
-<div id="aboutUs" class="h-16 bg-white w-full font-sans">
-
-</div>
-
-<div id="overview" class="w-full h-full flex items-center justify-center bg-gray-100/80 blur-sm select-none mt-10">
+<div id="aboutUs" class="w-full h-full flex items-center justify-center bg-gray-100/80 blur-sm select-none mt-10">
   <h2 class='text-center text-4xl md:text-3xl z-50 text-gray-500 font-semibold blur-sm animate-pulse'>✨ Revealing Soon About US !!</h2>
   <!-- <div class='w-full h-[650px]'>
       <div class='bg-blue-400 px-[8%] md:px-[15%]'>

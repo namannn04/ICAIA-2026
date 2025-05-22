@@ -1,6 +1,6 @@
 <div class="mt-8">
     <div id="overview" class="w-full h-full flex items-center justify-center bg-gray-100/80 select-none blur-sm mt-10">
-        <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 text-gray-500 font-semibold blur-sm'>Revealing Soon Technical team !!</h2>
+        <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 text-gray-500 font-semibold blur-sm'>Revealing Soon Techincal team !!</h2>
         </dvi>
         <!-- <ul
                 class="mx-3 md:ml-32">

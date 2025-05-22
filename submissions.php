@@ -1,8 +1,8 @@
-<div id="submissions" class="h-16 bg-white w-full font-sans">
-  <!-- Submissions section top divider (preserved, untouched) -->
-</div>
+<!-- <div id="submissions" class="h-16 bg-white w-full font-sans">
+  Submissions section top divider (preserved, untouched) -->
+<!-- </div> -->
 
-<div class="w-full text-white text-justify">
+<div id="submissions" class="w-full text-white text-justify">
   <div class="bg-blue-400 px-[8%] md:px-[15%] py-20 blur-sm  text-center relative">
 
     <!-- 🔒 Original content is safely commented below -->

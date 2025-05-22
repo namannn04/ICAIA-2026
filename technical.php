@@ -1,5 +1,8 @@
 <div class="mt-8">
-            <ul
+    <div id="overview" class="w-full h-full flex items-center justify-center bg-gray-100/80 select-none blur-sm mt-10">
+        <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 text-gray-500 font-semibold blur-sm'>Revealing Soon Registerations !!</h2>
+        </dvi>
+        <!-- <ul
                 class="mx-3 md:ml-32">
                 <li class="px-3 py-2"><strong> Prof. Xavier Fernando</strong>, Toronto, Metropolitan University, Toronto</li>
                 <li class="px-3 py-2"><strong> Prof. Frank Wang</strong>, Ex Head of School of Computing, University of Kent, UK</li>
@@ -48,5 +51,5 @@
                 <li class="px-3 py-2"><strong> Dr. Prachi Chaudhary</strong>, DCRUST, Murthal, India</li>
                 <li class="px-3 py-2"><strong> Dr. Deepali Gupta</strong>, Chitkara University, Rajpura, Punjab, India</li>
                 <li class="px-3 py-2"><strong> Mr. Rajeev Kumar</strong>, IEEE Member, USA</li>
-            </ul>
-</div> 
+            </ul> -->
+    </div>

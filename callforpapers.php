@@ -1,9 +1,9 @@
-<div id="callforpapers" class="h-16 bg-white w-full font-sans">
+<!-- <div id="callforpapers" class="h-16 bg-white w-full font-sans">
 
-</div>
+</div> -->
 
 <div class='w-full text-white'>
-  <div id="overview" class="w-full h-full flex items-center justify-center select-none bg-gray-100/80 blur-sm mt-10">
+  <div id="callforpapers" class="w-full h-full flex items-center justify-center select-none bg-gray-100/80 blur-sm mt-10">
     <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 text-gray-500 font-semibold p-10 blur-sm'>✨ Revealing Soon Call For Papers !!</h2>
     <!-- <div class='bg-blue-400 px-[8%] md:px-[15%]'>
     <div>

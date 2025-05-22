@@ -1,5 +1,7 @@
 <div id="tracks">
-  <div class="w-full" >
+    <div class="w-full h-full flex items-center justify-center select-none bg-gray-100/80 blur-sm mt-10">
+        <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 blur-sm text-gray-500 font-semibold'>Revealing Soon Tracks !!</h2>
+        <!-- <div class="w-full" >
     <div class=' bg-white pt-12 md:px-[10%]'>
       <div class='pt-16'>
         <h1 class='text-[#c00000] text-center text-3xl font-[600]'>TRACKS</h1>
@@ -141,6 +143,6 @@
     </ul>
 </div>
     </div>
-  </div>
+  </div> -->
+    </div>
 </div>
-

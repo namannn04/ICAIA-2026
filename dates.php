@@ -1,7 +1,10 @@
 <div id="dates" class="h-16 bg-white w-full font-sans">
 </div>
+<div id="overview" class="w-full h-full flex items-center select-none justify-center bg-gray-100/80 select-none blur-sm mt-10">
+    <h2 class='text-center text-3xl md:text-4xl z-50 blur-sm text-gray-500 font-semibold'>✨ Revealing Soon Dates !!</h2>
+</div>
 
-<div class='w-full'>
+<!-- <div class='w-full'>
     <div class='bg-white px-[5%] md:px-[15%]'>
         <div>
             <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>IMPORTANT DATES</h1>
@@ -41,4 +44,4 @@
             <div class="w-1/2 text-center">26-27th March 2025</div>
         </div>
     </div>
-</div>
+</div> -->

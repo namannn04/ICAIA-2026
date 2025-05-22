@@ -1,6 +1,8 @@
 <div>
-      <div class="w-full" id="contact">
-        <div class=" bg-white pt-16">
+  <div class="w-full" id="contact">
+    <div id="overview" class="select-none w-full h-full flex items-center justify-center bg-gray-100/80 blur-sm mt-10">
+      <h2 class='text-center text-3xl md:text-4xl z-50 animate-pulse text-gray-500 font-semibold blur-sm '>✨ Revealing Soon Contact us!!</h2>
+      <!-- <div class=" bg-white pt-16">
           <div class="pt-16">
             <h1 class="text-[#c00000] text-center text-3xl font-[600]">
               CONTACT US
@@ -35,9 +37,9 @@
                 <h1 class="text-gray-400 text-[22px] font-[500] mt-4">
                   011-45037193
                 </h1>
-                <!-- <h1 class="text-gray-400 text-[22px] font-[500]">
+                <h1 class="text-gray-400 text-[22px] font-[500]">
                   25528117
-                </h1> -->
+                </h1>
               </div>
             </div>
             <div class="bg-[#f0f0f0] md:w-[25%] m-[5%] pb-[2%] rounded-lg transform hover:scale-105 transition-transform duration-300 cursor-pointer shadow-lg">
@@ -62,6 +64,6 @@
               allowfullscreen=""
             ></iframe>
           </div>
-        </div>
-      </div>
+        </div> -->
     </div>
+  </div>/

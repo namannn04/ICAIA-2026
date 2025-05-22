@@ -1,8 +1,7 @@
-<div class="bg-white">
-  <div id="committee" class="w-full h-full flex items-center justify-center bg-gray-100/80 blur-sm select-none mt-10">
-    <h2 class='text-center text-4xl md:text-3xl blur-sm z-50 text-gray-500 animate-pulse font-semibold'>Revealing Soon Committee !!</h2>
-
-    <!-- 
+<div id="committee" class="w-full h-full flex items-center justify-center bg-gray-100/80 blur-sm select-none mt-10">
+  <h2 class='text-center text-4xl md:text-3xl blur-sm z-50 text-gray-500 animate-pulse font-semibold'>Revealing Soon Committee !!</h2>
+</div>
+<!-- 
     <div class="w-full" id="committee">
       <div class='bg-white md:px-[10%] pt-12'>
         <div class='pt-16'>

@@ -1,8 +1,8 @@
 <!-- <div class="h-8 bg-white w-full font-sans">
 
 </div> -->
-<div id="sponsorship" class="w-full h-full flex select-none items-center justify-center bg-gray-100/80 blur-sm mt-10">
-    <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 blur-sm text-gray-500 font-semibold'>Revealing Soon Sponsorships !!</h2>
+<div id="sponsor" class="w-full h-full flex select-none items-center justify-center bg-gray-100/80 blur-sm mt-10">
+    <h2 class='text-center text-[100px] z-50 blur-sm text-gray-500 font-semibold'>Revealing Soon Sponsorships !!</h2>
     <!-- <div class="bg-blue-100 px-8 py-16 md:px-16">
         <div class="text-center">
             <h1 class="text-[#c00000] text-4xl font-bold">OUR SPONSORS</h1>

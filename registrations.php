@@ -1,7 +1,7 @@
-<div id="registrations" class="h-8 bg-white w-full">
-</div>
+<!-- <div id="registrations" class="h-8 bg-white w-full">
+</div> -->
 
-<div id="overview" class="w-full h-full flex items-center justify-center bg-gray-100/80 select-none blur-sm mt-10">
+<div id="registrations" class="w-full h-full flex items-center justify-center bg-gray-100/80 select-none blur-sm mt-10">
     <h2 class='text-center text-4xl md:text-3xl animate-pulse z-50 text-gray-500 font-semibold blur-sm'>Revealing Soon Registerations !!</h2>
     <!-- <div class='bg-white px-[5%] md:px-[15%]'>
       <div>

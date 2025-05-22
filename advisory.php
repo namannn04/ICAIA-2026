@@ -1,10 +1,13 @@
 <div class="mt-8">
-            <!-- <button type="button"
+    <div id="overview" class="w-full h-full flex items-center justify-center bg-gray-100/80 select-none blur-sm mt-10">
+        <h2 class='text-center text-3xl md:text-4xl z-50 text-gray-500 font-semibold blur-sm animate-pulse '>Revealing Soon Advisory !!</h2>
+    </div>
+    <!-- <button type="button"
                 class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500 shadow-lg"
                 onclick="toggleDropdown('international_dropdown')">
                 International Advisory Committee
             </button> -->
-            <ul
+    <!-- <ul
                 class="mx-3 md:ml-32">
                 <li class="px-3 py-2"><strong>Prof. Xavier Fernando</strong>, Toronto Metropolitan University, Toronto</li>
                 <li class="px-3 py-2"><strong>Prof. Frank Wang</strong>, Ex-Head of School of Computing, University of Kent, UK, Ex-chairman, IEEE Computer Society, UK and Ireland Chapter</li>
@@ -26,15 +29,15 @@
                 <li class="px-3 py-2"><strong>Prof. A.K. Mohapatra</strong>, IGDTUW, New Delhi</li>
                 <li class="px-3 py-2"><strong>Dr. Robin Singh Bhadoria</strong>, NIT Hamirpur, Himachal Pradesh, India</li>
                 <li class="px-3 py-2"><strong>Ms. Meetu Malhotra</strong>,  Harrisburg University of Science and Technology,  USA</li>
-            </ul>
+            </ul> -->
 
-        <!-- <li class="relative"> -->
-            <!-- <button type="button"
+    <!-- <li class="relative"> -->
+    <!-- <button type="button"
                 class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500 shadow-lg"
                 onclick="toggleDropdown('national_dropdown')">
                 National Advisory Committee
             </button> -->
-            <!-- <ul id="national_dropdown"
+    <!-- <ul id="national_dropdown"
                 class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
 
             </ul>

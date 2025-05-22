@@ -1,8 +1,10 @@
 <div class="h-8 bg-white w-full font-sans">
 
 </div>
-
-<div class='w-full'>
+<div id="overview" class="w-full h-full flex items-center select-none justify-center bg-gray-100/80 select-none blur-sm mt-10">
+    <h2 class='text-center text-4xl md:text-3xl z-50 blur-sm text-gray-500 font-semibold'>✨ Revealing Soon keyNote Figures !!</h2>
+</div>
+<!-- <div class='w-full'>
       <div class='bg-[#e9 e9e9] bg-white px-[15%]'>
       <div>
         <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>INSPIRING GUESTS & SPEAKERS</h1>
@@ -56,9 +58,9 @@
             <p>Department Carnegie</p>
             <p>Mellon University</p>
         </div>
-        <!-- <div class="mt-10 pb-[50px] pt-16 text-center text-3xl font-[450]">
+        <div class="mt-10 pb-[50px] pt-16 text-center text-3xl font-[450]">
             COMING SOON
-        </div> -->
+        </div> 
         <div class="w-[230px] mx-auto my-3 text-center font-[700]">
             <img class="w-full rounded-full border border-[4px] border-gray-500 object-contain" src="images/speakers/16.jpg" alt="">
             <p class="bg-[#c00000] z-[100] rounded-lg py-2 text-white px-3 my-2">Prof. Dheeraj Joshi</p>
@@ -108,5 +110,5 @@
         </div>
     </div>
   </div>
-</div >
+</div > -->
 </div>

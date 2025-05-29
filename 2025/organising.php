@@ -16,8 +16,6 @@
         <li class="px-3 py-2"><strong> Sh. Karnal Singh</strong>,<strong> (IPS)</strong> Former Director - Enforcement Directorate </li>
         <li class="px-3 py-2"><strong> Sh. Ajit Singh Chaudhary</strong>, <strong> (Secretary)</strong> SMES, New Delhi</li>
         <li class="px-3 py-2"><strong> Sh. Raj Pal Solanki</strong>,<strong> (Treasurer)</strong> SMES, New Delhi </li>
-        <li class="px-3 py-2"><strong> Dr. Tejbir Singh Rana</strong>,<strong> (Chairman, Academic Committee)</strong> SMES, New Delhi </li>
-        <li class="px-3 py-2"><strong> Sh. S.S. Solanki</strong><strong>(Chairman Disciplinary(L))</strong> SMES, New Delhi</li>
     </li>
   </ul>
   </li>
@@ -31,15 +29,6 @@
       Organising Chair
     </button>
     <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
-      <li class="px-3 py-2">
-          <strong>General Chair(s)</strong>
-          <li class="px-3 py-2">
-          <span class="font-semibold">Prof. G.S. Tomar</span>, Chairman IEEE MP Section, Rajkiya Engineering College Sonbhadra, UP
-          </li>  
-          <li class="px-3 py-2">
-          <span class="font-semibold">Prof. S.K. Garg</span>, Delhi Technical University, New Delhi
-          </li>
-        </li>
         <li class="px-3 py-2">
           <strong>Organising Chair</strong>
           <li class="px-3 py-2">

@@ -16,8 +16,6 @@
         <li class="px-3 py-2"><strong> Sh. Karnal Singh</strong>,<strong> (IPS)</strong> Former Director - Enforcement Directorate </li>
         <li class="px-3 py-2"><strong> Sh. Ajit Singh Chaudhary</strong>, <strong> (Secretary)</strong> SMES, New Delhi</li>
         <li class="px-3 py-2"><strong> Sh. Raj Pal Solanki</strong>,<strong> (Treasurer)</strong> SMES, New Delhi </li>
-        <li class="px-3 py-2"><strong> Dr. Tejbir Singh Rana</strong>,<strong> (Chairman, Academic Committee)</strong> SMES, New Delhi </li>
-        <li class="px-3 py-2"><strong> Sh. S.S. Solanki</strong><strong>(Chairman Disciplinary(L))</strong> SMES, New Delhi</li>
     </li>
   </ul>
   </li>

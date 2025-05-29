@@ -11,5 +11,5 @@
         <p class="text-center text-md md:text-xl pt-8">Will be declared 10 days prior to the conference.</p>
     </div> -->
 <div id="schedule" class="w-full h-full flex items-center justify-center bg-gray-100/80 select-none blur-sm mt-10">
-  <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 text-gray-500 font-semibold blur-sm'>Revealing Soon Schedule !!</h2>
+  <h2 class='text-center text-3xl md:text-4xl animate-pulse z-50 text-gray-500 font-semibold blur-sm'>Coming Soon Schedule !!</h2>
 </div>

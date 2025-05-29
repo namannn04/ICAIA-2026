@@ -5,7 +5,7 @@
         <div class="flex justify-left">
           <div><img class='z-10 w-[60px] mt-2 md:relative md:right-12' src="https://msit.in/static/img/msit.png" alt="MSIT_logo" /></div>
           <!-- <div><img class='z-10 w-[80px] ml-2' src="./images/witLogo.png" alt="WIT_logo" /></div> -->
-          <div><img class='z-10 w-[100px] ml-2 md:hidden' src="./images/springer.png" alt="Springer_logo" /></div>
+          <!-- <div><img class='z-10 w-[100px] ml-2 md:hidden' src="./images/springer.png" alt="Springer_logo" /></div> -->
           <!-- <img class='z-10 w-[110px] my-4 px-2 ml-4' src="./images/springer-logo.svg" alt="" /> -->
         </div>
       </a>

@@ -29,15 +29,6 @@
       Organising Chair
     </button>
     <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
-      <li class="px-3 py-2">
-          <strong>General Chair(s)</strong>
-          <li class="px-3 py-2">
-          <span class="font-semibold">Prof. G.S. Tomar</span>, Chairman IEEE MP Section, Rajkiya Engineering College Sonbhadra, UP
-          </li>  
-          <li class="px-3 py-2">
-          <span class="font-semibold">Prof. S.K. Garg</span>, Delhi Technical University, New Delhi
-          </li>
-        </li>
         <li class="px-3 py-2">
           <strong>Organising Chair</strong>
           <li class="px-3 py-2">

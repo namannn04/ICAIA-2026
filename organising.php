@@ -3,7 +3,6 @@
   <ul class="space-y-2">
 
 
-
     <li class="relative">
       <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('patrons_dropdown')">
         Patrons
@@ -23,12 +22,20 @@
 
 
 
-
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('organising_chair_dropdown')">
       Organising Chair
     </button>
     <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+      <!-- <li class="px-3 py-2">
+          <strong>General Chair(s)</strong>
+          <li class="px-3 py-2">
+          <span class="font-semibold">Prof. G.S. Tomar</span>, Chairman IEEE MP Section, Rajkiya Engineering College Sonbhadra, UP
+          </li>  
+          <li class="px-3 py-2">
+          <span class="font-semibold">Prof. S.K. Garg</span>, Delhi Technical University, New Delhi
+          </li>
+        </li> -->
       <li class="px-3 py-2">
         <strong>Organising Chair</strong>
       <li class="px-3 py-2">
@@ -49,7 +56,7 @@
     </button>
     <ul id="convener_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Tripti Sharma</strong>, MSIT
+        <h1><span class="font-semibold">Prof. (Dr.) Archana Balyan</span>, Director, MSIT, New Delhi</h1>
       </li>
     </ul>
   </li>
@@ -59,10 +66,10 @@
     </button>
     <ul id="co_conveners_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Pradeep Sangwan</strong>, MSIT
+        <strong>Prof.(Dr.) Rinky Dwivedi</strong>, MSIT
       </li>
       <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Rinky Dwivedi</strong>, MSIT
+        <strong>Dr. Deepshikha Yadav</strong>, MSIT
       </li>
       <!-- <li class="px-3 py-2">
         <strong>Dr. Mehmet Ergezer</strong>, School of Computing and Data Science, WIT
@@ -119,13 +126,13 @@
     </button>
     <ul id="finance_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Shalu</strong>
+        <strong>Dr. Sakshi Rajput</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Tripti Rathee</strong>
+        <strong>Dr. Preeti Sehrawat</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Monu Malik</strong>
+        <strong>Ms. Garima</strong>
       </li>
     </ul>
   </li>
@@ -135,16 +142,13 @@
     </button>
     <ul id="publication_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Savita Ahlawat</strong>
+        <strong>Prof. (Dr.) Koyel Datta Gupta</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Sakshi Rajput</strong>
+        <strong>Dr. Nishtha Jatana</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Saba Khanum</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Parul Choudhary</strong>
+        <strong>Ms. Vaani</strong>
       </li>
     </ul>
   </li>
@@ -154,13 +158,16 @@
     </button>
     <ul id="publicity_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Aman Dahiya</strong>
+        <strong>Prof (Dr.) Neeru Rathi</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Priya Dalal</strong>
+        <strong>Dr. Shaifali Madan</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Mr. Akshay Singh</strong>
+        <strong>Dr. Sangeeta</strong>
+      </li>
+      <li class="px-3 py-2">
+        <strong>Mr. Akshay Kumar</strong>
       </li>
     </ul>
   </li>
@@ -170,16 +177,13 @@
     </button>
     <ul id="printing_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof. (Dr.) A.K. Singh</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Kavita Sheoran</strong>
-      </li>
-      <li class="px-3 py-2">
         <strong>Dr. Shaily Malik</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Sonia Malik</strong>
+        <strong>Dr. Preeti Rathee</strong>
+      </li>
+      <li class="px-3 py-2">
+        <strong>Ms. Gunjan</strong>
       </li>
     </ul>
   </li>
@@ -189,10 +193,10 @@
     </button>
     <ul id="website_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof. Naresh Kumar</strong>
+        <strong>Mr. Vikrant Shokeen</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Sunesh Malik</strong>
+        <strong>Ms. Jyoti</strong>
       </li>
       <!-- <li class="px-3 py-2">
           <strong>Dr. Vikrant Shokeen</strong>
@@ -205,16 +209,17 @@
     </button>
     <ul id="registration_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Rekha Tripathi</strong>
+        <strong>Dr. Neelam Nehra
+        </strong>
       </li>
       <li class="px-3 py-2">
         <strong>Ms. Mamta Gehlan</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Sandeep Singh</strong>
+        <strong>Dr. Upma</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Preeti Rathee</strong>
+        <strong>Ms. Himani</strong>
       </li>
     </ul>
   </li>
@@ -227,13 +232,13 @@
         <span class="org_comm_headings">MSIT:</span>
       </li> -->
       <li class="px-3 py-2">
-        <strong>Dr. Anupama Kaushik</strong>
+        <strong>Prof. (Dr.) Pardeep Sangwan</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Navdeep Bohra</strong>
+        <strong>Dr. Rohit Singh Lather</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Mr. Praveen Kumar</strong>
+        <strong>Mr. Surinder Singh</strong>
       </li>
       <!-- <li class="px-3 py-2">
         <span class="org_comm_headings">WIT:</span>
@@ -252,19 +257,22 @@
     </button>
     <ul id="stage_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Geetika Dhand</strong>
+        <strong>Dr. Vimal Gaur</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Deepshikha Yadav</strong>
+        <strong>Dr. Deepti Deswal</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Minakshi Tomer</strong>
+        <strong>Dr. Meena Siwach</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Preeti Sehrawat</strong>
+        <strong>Dr. Minakshi Tomar</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Ms. Vishakha Tomar</strong>
+        <strong>Dr. Monu Malik</strong>
+      </li>
+      <li class="px-3 py-2">
+        <strong>Ms. Aastha Solanki</strong>
       </li>
     </ul>
   </li>
@@ -274,22 +282,19 @@
     </button>
     <ul id="reception_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Dinesh Sheoran</strong>
+        <strong>Dr. Navdeep Bohra</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Mr. Surinder Bhanwala</strong>
+        <strong>Dr. Gitanjali</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Mr. Sachit Rathee</strong>
+        <strong>Dr. Rashmi</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Sachin Dhull</strong>
+        <strong>Ms. Jasmine Solanki</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Ms. Vaani Garg</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Gunjan</strong>
+        <strong>Ms. Neha</strong>
       </li>
     </ul>
   </li>
@@ -299,19 +304,25 @@
     </button>
     <ul id="hospitality_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Vimal Gaur</strong>
-      </li>
-      <li class="px-3 py-2">
         <strong>Dr. Rakhi Kamra</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Poonam Dahiya</strong>
+        <strong>Mr. Praveen Kumar</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Nistha Saroha</strong>
+        <strong>Dr. Priya Dalal</strong>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Neetu Sehrawat</strong>
+        <strong>Dr. Nishtha Saroha</strong>
+      </li>
+      <li class="px-3 py-2">
+        <strong>Ms. Vishakha Tomar</strong>
+      </li>
+      <li class="px-3 py-2">
+        <strong>Dr. Anu Dagar</strong>
+      </li>
+      <li class="px-3 py-2">
+        <strong>Dr. Sachin Dhull</strong>
       </li>
       <!-- <div class="mt-10 pb-[50px] pt-16 text-center text-3xl font-[450]">
             COMING SOON
@@ -351,10 +362,4 @@
     </ul>
   </li>
   </ul>
-
-
-
-
-
-
 </div>

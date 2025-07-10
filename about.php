@@ -1,7 +1,7 @@
 <div id="overview" class='w-full  text-white'>
   <div class='bg-blue-400'>
     <div class='mt-4'>
-      <div class="w-full py-6">
+      <!-- <div class="w-full py-6">
         <marquee class="text-xl">
           <div class="flex w-[250%]">
             <div><img src="./images/new.gif" alt="123" class="mt-2"></div><a href="#submissionsText"
@@ -20,7 +20,7 @@
               class="ml-2 text-[#FF0000 ] text-white text-lg "> Intelligent Decision Technologies(Scopus)</a>
           </div>
         </marquee>
-      </div>
+      </div> -->
       <div class=" px-[8%] md:px-[15%]">
         <h1 class='text-[#c00000] pt-6 text-center text-3xl font-[600]'>CONFERENCE OVERVIEW</h1>
         <div class='w-72 h-[3px] mx-auto mt-2 bg-[#365372] rounded-xl'></div>

@@ -1,9 +1,9 @@
 <nav id="navbar" class="bg-[#365372] bg-gray-400 z-50 w-full fixed top-0 left-0 font-sans">
-  <div class="md:flex items-center justify-between bg-theme py-1 pr-6 pl-3 xl:pr-1 xl:py-0 md:px-14">
+  <div class="md:flex items-center justify-between bg-theme py-3 pr-6 pl-3 xl:pr-[-2px] xl:py-2 md:px-14">
     <div class="cursor-pointer ">
       <a href="/">
         <div class="flex justify-left">
-          <div><img class='z-10 w-[60px] mt-2 md:relative md:right-12' src="https://msit.in/static/img/msit.png" alt="MSIT_logo" /></div>
+          <div><img class='z-10 h-[50px] w-[60px] mt-2 md:relative md:right-12' src="images/_logo.png" alt="MSIT_logo" /></div>
           <!-- <div><img class='z-10 w-[80px] ml-2' src="./images/witLogo.png" alt="WIT_logo" /></div> -->
           <!-- <div><img class='z-10 w-[100px] ml-2 md:hidden' src="./images/springer.png" alt="Springer_logo" /></div> -->
           <!-- <img class='z-10 w-[110px] my-4 px-2 ml-4' src="./images/springer-logo.svg" alt="" /> -->

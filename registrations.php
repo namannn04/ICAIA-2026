@@ -27,23 +27,23 @@
         </div>
         <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">Faculty Members/Industry Professionals</div>
-            <div class="w-1/2 text-center">9,000</div>
+            <div class="w-1/2 text-center">9,500</div>
         </div>
         <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">IEEE Members</div>
-            <div class="w-1/2 text-center">7,000</div>
-        </div>
-        <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/2 text-center">Students</div>
             <div class="w-1/2 text-center">8,000</div>
         </div>
         <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
+            <div class="w-1/2 text-center">Students</div>
+            <div class="w-1/2 text-center">9,000</div>
+        </div>
+        <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">IEEE Student Members</div>
-            <div class="w-1/2 text-center">6,000</div>
+            <div class="w-1/2 text-center">7,000</div>
         </div>
         <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">Delegates (Non-Authors/Additonal Authors)</div>
-            <div class="w-1/2 text-center">5,000</div>
+            <div class="w-1/2 text-center">2,000</div>
         </div>
 
         <br />
@@ -67,15 +67,15 @@
         </div>
         <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">Students</div>
-            <div class="w-1/2 text-center">150</div>
+            <div class="w-1/2 text-center">120</div>
         </div>
         <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">IEEE Student Members</div>
-            <div class="w-1/2 text-center">75</div>
+            <div class="w-1/2 text-center">100</div>
         </div>
         <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">Delegates (Non-Authors/Additonal Authors)</div>
-            <div class="w-1/2 text-center">100</div>
+            <div class="w-1/2 text-center">50</div>
         </div>
 
         <br />

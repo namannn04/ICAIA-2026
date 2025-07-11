@@ -4,7 +4,7 @@
                 onclick="toggleDropdown('international_dropdown')">
                 International Advisory Committee
             </button> -->
-    <ul
+    <!-- <ul
         class="mx-3 md:ml-32">
         <li class="px-3 py-2"><strong>Prof. Xavier Fernando</strong>, Toronto Metropolitan University, Toronto</li>
         <li class="px-3 py-2"><strong>Prof. Frank Wang</strong>, Ex-Head of School of Computing, University of Kent, UK, Ex-chairman, IEEE Computer Society, UK and Ireland Chapter</li>
@@ -26,7 +26,7 @@
         <li class="px-3 py-2"><strong>Prof. A.K. Mohapatra</strong>, IGDTUW, New Delhi</li>
         <li class="px-3 py-2"><strong>Dr. Robin Singh Bhadoria</strong>, NIT Hamirpur, Himachal Pradesh, India</li>
         <li class="px-3 py-2"><strong>Ms. Meetu Malhotra</strong>, Harrisburg University of Science and Technology, USA</li>
-    </ul>
+    </ul> -->
 
     <!-- <li class="relative"> -->
     <!-- <button type="button"

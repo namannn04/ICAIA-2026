@@ -35,13 +35,6 @@
       <li class="px-3 py-2">
         <h1><span class="font-semibold">Prof. Rinky Dwivedi</span>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
       </li>
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('co_conveners_dropdown')">
-      General Chair
-    </button>
-    <ul id="co_conveners_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
         <strong>Dr. Deepshikha Yadav</strong>, Assistant Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
@@ -79,7 +72,7 @@
     </button>
     <ul id="finance_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>DProf. Koyel Datta Gupta</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
+        <strong>Prof. Koyel Datta Gupta</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
     </ul>
   </li>

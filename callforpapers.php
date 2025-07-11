@@ -1,4 +1,4 @@
-<div class='w-full text-white'>
+<div class='w-full text-white' id="callforpapers">
   <div class='bg-blue-400 px-[8%] md:px-[15%]'>
     <div>
       <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>CALL FOR PAPERS</h1>

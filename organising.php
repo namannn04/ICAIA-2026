@@ -5,16 +5,11 @@
 
     <li class="relative">
       <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('patrons_dropdown')">
-        Patrons
+        General Chair
       </button>
       <ul id="patrons_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <li class="px-3 py-2">
-        <li class="px-3 py-2"><strong> Sh. Kaptan Singh</strong>, <strong> (President)</strong> SMES, New Delhi</li>
-        <li class="px-3 py-2"><strong>Ms. Esha Jakhar</strong>,<strong> (Vice - President)</strong> SMES, New Delhi</li>
-        <li class="px-3 py-2"><strong> Prof. Prem Vrat</strong>,<strong> (Pro - Chancellor)</strong> North Cap University, Gurgaon</li>
-        <li class="px-3 py-2"><strong> Sh. Karnal Singh</strong>,<strong> (IPS)</strong> Former Director - Enforcement Directorate </li>
-        <li class="px-3 py-2"><strong> Sh. Ajit Singh Chaudhary</strong>, <strong> (Secretary)</strong> SMES, New Delhi</li>
-        <li class="px-3 py-2"><strong> Sh. Raj Pal Solanki</strong>,<strong> (Treasurer)</strong> SMES, New Delhi </li>
+        <li class="px-3 py-2"><strong> Prof. S.K. Garg</strong>, <strong>(Director)</strong>, Delhi Technological University, New Delhi, INDIA</li>
     </li>
   </ul>
   </li>
@@ -27,338 +22,84 @@
       Organising Chair
     </button>
     <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
-      <!-- <li class="px-3 py-2">
-          <strong>General Chair(s)</strong>
-          <li class="px-3 py-2">
-          <span class="font-semibold">Prof. G.S. Tomar</span>, Chairman IEEE MP Section, Rajkiya Engineering College Sonbhadra, UP
-          </li>  
-          <li class="px-3 py-2">
-          <span class="font-semibold">Prof. S.K. Garg</span>, Delhi Technical University, New Delhi
-          </li>
-        </li> -->
-      <li class="px-3 py-2">
-        <strong>Organising Chair</strong>
-      <li class="px-3 py-2">
-        <h1><span class="font-semibold">Prof. (Dr.) Archana Balyan</span>, Director, MSIT, New Delhi</h1>
+        <h1><span class="font-semibold">Prof. Archana Balyan</span>, Director, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
       </li>
   </li>
-  <!-- <li class="px-3 py-2">
-          <strong>Conference Co-Chair</strong>
-          <li class="px-3 py-2">
-          <h1><span class="font-semibold">Durga Suresh-Menon</span>, Dean, School of computing and Data Science, WIT, USA</h1>
-          </li>
-        </li> -->
   </ul>
   </li>
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('convener_dropdown')">
-      Convener
+      Organising Co- Chair
     </button>
     <ul id="convener_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <h1><span class="font-semibold">Prof. (Dr.) Archana Balyan</span>, Director, MSIT, New Delhi</h1>
-      </li>
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('co_conveners_dropdown')">
-      Co-Conveners
-    </button>
-    <ul id="co_conveners_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Rinky Dwivedi</strong>, MSIT
+        <h1><span class="font-semibold">Prof. Rinky Dwivedi</span>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Deepshikha Yadav</strong>, MSIT
+        <strong>Dr. Deepshikha Yadav</strong>, Assistant Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
-      <!-- <li class="px-3 py-2">
-        <strong>Dr. Mehmet Ergezer</strong>, School of Computing and Data Science, WIT
-      </li> -->
-      <!-- <li class="px-3 py-2">
-        <strong>Dr. Mark Mixer</strong>, School of Computing and Data Science, WIT
-      </li> -->
     </ul>
   </li>
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('technical_review_dropdown')">
-      Technical Review Committee
+      Technical Program Committee Chair
     </button>
     <ul id="technical_review_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Archana Balyan</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Tripti Sharma</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Pradeep Sangwan</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Rinky Diwedi</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Naveen Dahiya</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Sangeeta</strong>
+        <strong>Prof. Naveen Dahiya</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
     </ul>
   </li>
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('program_committee_dropdown')">
-      Program Committee
+      Technical Program Committee Co- Chair
     </button>
     <ul id="program_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Meena Tushir</strong>
+        <strong>Prof. S.S. Agrawal</strong>, Emeritus Scientist, CSIR (Retd.)
       </li>
       <li class="px-3 py-2">
-        <strong>Prof.(Dr.) Prabhjot Kaur</strong>
+        <strong>Prof. Puneet Azad</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Sandeep Kumar</strong>
+        <strong>Dr. Deepak Sharma</strong>, Associate Professor, IGDTUW, New Delhi, INDIA
       </li>
     </ul>
   </li>
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('finance_committee_dropdown')">
-      Finance Committee
+      Publication Chair
     </button>
     <ul id="finance_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Dr. Sakshi Rajput</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Preeti Sehrawat</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Garima</strong>
+        <strong>Prof. Koyel Datta Gupta</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
     </ul>
   </li>
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('publication_committee_dropdown')">
-      Publication Committee
+      Publication Co-Chair
     </button>
     <ul id="publication_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof. (Dr.) Koyel Datta Gupta</strong>
+        <strong>Prof. Dheeraj Joshi</strong>, Professor, Delhi Technological University, New Delhi, INDIA
       </li>
       <li class="px-3 py-2">
-        <strong>Dr. Nishtha Jatana</strong>
+        <strong>Mr. Pradeep Kumar Balyan</strong>, Co-Founder & Chief Marketing Officer, Blueprint360
       </li>
       <li class="px-3 py-2">
-        <strong>Ms. Vaani</strong>
+        <strong>Dr. Nishtha Jatana</strong>, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
     </ul>
   </li>
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('publicity_committee_dropdown')">
-      Publicity Committee
+      Publicity Chair
     </button>
     <ul id="publicity_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof (Dr.) Neeru Rathi</strong>
+        <strong>Prof. Neeru Rathi</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Shaifali Madan</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Sangeeta</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Mr. Akshay Kumar</strong>
-      </li>
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('printing_committee_dropdown')">
-      Design and Printing Committee
-    </button>
-    <ul id="printing_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Dr. Shaily Malik</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Preeti Rathee</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Gunjan</strong>
-      </li>
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('website_committee_dropdown')">
-      Website Committee
-    </button>
-    <ul id="website_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Mr. Vikrant Shokeen</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Jyoti</strong>
-      </li>
-      <!-- <li class="px-3 py-2">
-          <strong>Dr. Vikrant Shokeen</strong>
-        </li> -->
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('registration_committee_dropdown')">
-      Registration Committee
-    </button>
-    <ul id="registration_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Dr. Neelam Nehra
-        </strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Mamta Gehlan</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Upma</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Himani</strong>
-      </li>
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('sponsorship_committee_dropdown')">
-      Sponsorship Committee
-    </button>
-    <ul id="sponsorship_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <!-- <li class="px-3 py-2">
-        <span class="org_comm_headings">MSIT:</span>
-      </li> -->
-      <li class="px-3 py-2">
-        <strong>Prof. (Dr.) Pardeep Sangwan</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Rohit Singh Lather</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Mr. Surinder Singh</strong>
-      </li>
-      <!-- <li class="px-3 py-2">
-        <span class="org_comm_headings">WIT:</span>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Aspen Olmsted</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Youssef Qranfal</strong>
-      </li> -->
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('stage_committee_dropdown')">
-      Stage Committee
-    </button>
-    <ul id="stage_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Dr. Vimal Gaur</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Deepti Deswal</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Meena Siwach</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Minakshi Tomar</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Monu Malik</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Aastha Solanki</strong>
-      </li>
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('reception_committee_dropdown')">
-      Reception Committee
-    </button>
-    <ul id="reception_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Dr. Navdeep Bohra</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Gitanjali</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Rashmi</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Jasmine Solanki</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Neha</strong>
-      </li>
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('hospitality_committee_dropdown')">
-      Hospitality Committee
-    </button>
-    <ul id="hospitality_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Dr. Rakhi Kamra</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Mr. Praveen Kumar</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Priya Dalal</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Nishtha Saroha</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Ms. Vishakha Tomar</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Anu Dagar</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Sachin Dhull</strong>
-      </li>
-      <!-- <div class="mt-10 pb-[50px] pt-16 text-center text-3xl font-[450]">
-            COMING SOON
-      </div> -->
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('local_committee_dropdown')">
-      Local Organizing Committee
-    </button>
-    <ul id="local_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Dr. Sitender Malik</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Rakesh Kumar</strong>
-      </li>
-      <!-- <div class="mt-10 pb-[50px] pt-16 text-center text-3xl font-[450]">
-            COMING SOON
-      </div> -->
-    </ul>
-  </li>
-  <li class="relative">
-    <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('audio_committee_dropdown')">
-      Audio/Visual & Internet Committee
-    </button>
-    <ul id="audio_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-      <li class="px-3 py-2">
-        <strong>Dr. Deepak Goyal (Audio/Visual & Equipment Incharge)</strong>
-      </li>
-      <li class="px-3 py-2">
-        <strong>Dr. Bharti Sharma (Internet Incharge)</strong>
-      </li>
-      <!-- <div class="mt-10 pb-[50px] pt-16 text-center text-3xl font-[450]">
-            COMING SOON
-      </div> -->
     </ul>
   </li>
   </ul>

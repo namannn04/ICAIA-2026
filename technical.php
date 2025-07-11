@@ -1,67 +1,69 @@
 <div class="mt-8">
             <ul
                 class="mx-3 md:ml-32">
-                <!-- <li class="px-3 py-2"><strong> Prof. Xavier Fernando</strong>, Toronto, Metropolitan University, Toronto</li>
-                <li class="px-3 py-2"><strong> Prof. Frank Wang</strong>, Ex Head of School of Computing, University of Kent, UK</li>
-                <li class="px-3 py-2"><strong> Prof Chuan-Ming Liu</strong>, National Taipei University of Technology, Taipei, Taiwan</li>
-                <li class="px-3 py-2"><strong> Prof. Saraju Mohanty</strong>, University of North Texas</li>
-                <li class="px-3 py-2"><strong> Prof. Linga Reddy Cenkeramaddi</strong>, University of Agder Grimstad, Norway</li>
-                <li class="px-3 py-2"><strong> Prof. James Swart</strong>, Central University of Technology, South Africa</li>
-                <li class="px-3 py-2"><strong> Dr. Veepsa Bhatia Lohit</strong>, Southern Methodist University, USA</li>
-                <li class="px-3 py-2"><strong> Prof. Aarti Singh</strong>, Carnegie Mellon University, Pittsburgh, Pennsylvania</li>
-                <li class="px-3 py-2"><strong> Dr. Prasanalakshmi Balaji</strong>, King Khalid University, Saudi Arabia</li>
-                <li class="px-3 py-2"><strong> Prof. Anand Nayyar</strong>, Duy Tan University, Vietnam</li>
-                <li class="px-3 py-2"><strong> Dr. S.B.Goyal</strong>, Director, City University, Peatling Jaya, Malaysia</li>
-                <li class="px-3 py-2"><strong> Dr. Dilbagh Singh</strong>, New York University, USA</li>
-                <li class="px-3 py-2"><strong> Ms. Barkha Pabra</strong>, University of west of Scotland, UK</li>
-                <li class="px-3 py-2"><strong> Mr. Miguel Botto-Tobar</strong>, Researcher, Eindhoven University of Technology, Netherlands</li>
-                <li class="px-3 py-2"><strong> Prof. Narendra S. Chaudhari</strong>, IIT Indore, India</li>
-                <li class="px-3 py-2"><strong> Prof. Ashok De</strong>, DTU, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Lavika Goel</strong>, MNIT, Jaipur, India</li>
-                <li class="px-3 py-2"><strong> Dr. Kakali Chaterjee</strong>, NIT, Patna, India</li>
-                <li class="px-3 py-2"><strong> Dr. Madhu Sharma</strong>, DIT, Dehradun, India</li>
-                <li class="px-3 py-2"><strong> Dr. Vineet Kumar</strong>, NSUT, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Prof. K.P.S. Rana</strong>, NSUT, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Shailendra Kumar</strong>, DTU, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Vijyander Singh</strong>, NSUT, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Prof. A. K. Mahapatra</strong>, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Prof. Poonam Bansal</strong>, IGDTUW, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Robin Singh Bhadoria</strong>, NIT Hamirpur, Himachal Pradesh, India</li>
-                <li class="px-3 py-2"><strong> Dr. Rizwan Khan</strong>,  Dean Emerging Technologies, ABES Institute Of Technology(ABESIT), Ghaziabad, India</li>
-                <li class="px-3 py-2"><strong> Dr. Rohit Beniwal</strong>, DTU, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Kanchan Sharma</strong>, IGDTUW, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Sanjib Kumar Sahu</strong>, IGDTUW, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Sudhanshu Tyagi</strong>, Thapar University, India</li>
-                <li class="px-3 py-2"><strong> Dr. Madhu Sharma</strong>, DIT, Dehradun, India</li>
-                <li class="px-3 py-2"><strong> Dr. Naresh Kumar Yadav</strong>, DCRUST, Murthal, India</li>
-                <li class="px-3 py-2"><strong> Dr. Ankita Jain</strong>, NSUT, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Deepika</strong>, NSUT, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Pankaj Lathar</strong>, DSEU, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Malaaya Dutta Borah</strong>, NIT, Silchar, India</li>
-                <li class="px-3 py-2"><strong> Dr. Amit Chaudhary</strong>, GGSIPU, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Manisha Bharti</strong>, NIT, New Delhi</li>
-                <li class="px-3 py-2"><strong> Dr. Rajendra Kumar</strong>, NIT, Kurukshetra, India</li>
-                <li class="px-3 py-2"><strong> Dr. Saurabh Bhardwaj</strong>, Thapar University, India</li>
-                <li class="px-3 py-2"><strong> Dr. Rajit Nair</strong>, VIT, Bhopal, India</li>
-                <li class="px-3 py-2"><strong> Dr. Tarun Rawat</strong>, NSUT, New Delhi, India</li>
-                <li class="px-3 py-2"><strong> Dr. Bharti Sharma</strong>, JIT, Dehradun, India</li>
-                <li class="px-3 py-2"><strong> Dr. Prachi Chaudhary</strong>, DCRUST, Murthal, India</li>
-                <li class="px-3 py-2"><strong> Dr. Deepali Gupta</strong>, Chitkara University, Rajpura, Punjab, India</li>
-                <li class="px-3 py-2"><strong> Mr. Rajeev Kumar</strong>, IEEE Member, USA</li> -->
-                <li>Prof. (Dr.) Naveen Dahiya</li>
-                <li>Prof. (Dr.) Puneet Azad</li>
-                <li>Prof. (Dr.) Naresh Kumar</li>
-                <li>Dr. Sudesh Pahal</li>
-                <li>Dr. Meena Rao</li>
-                <li>Dr. Geetika Dhand</li>
-                <li>Dr. Kavita Sheoran</li>
-                <li>Dr. Amita Yadav</li>
-                <li>Dr. Savita Ahlawat</li>
-                <li>Dr. Sapna Malik</li>
-                <li>Dr. Sonika Malik</li>
-                <li>Dr. Jyoti Khurana</li>
-                <li>Dr. Tripti Rathee</li>
-                <li>Dr. Neeti Sangwan</li>
-                <li>Dr. Neetu Sehrawat</li>
+                <li class="px-3 py-2"><strong>Prof. Prasanalakshmi Balaji</strong>, King Khalid University (Saudi Arabia)</li>
+                <li class="px-3 py-2"><strong>Dr. Aakansha Garg</strong>, ABESIT, Ghaziabad (INDIA)</li>
+                <li class="px-3 py-2"><strong>Mr. Abhinav Mehta</strong>, Amazon.com Services LLC (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Aijaz Ahmed</strong>, National Institute of Technology Delhi, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Mr. Amit Dhiman</strong>, HCL, (U.S)</li>
+                <li class="px-3 py-2"><strong>Mr. Ankit Chouhan</strong>, University of Regina, (Canada)</li>
+                <li class="px-3 py-2"><strong>Dr. Arvind Goswami</strong>, Delhi Technological University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Arvind Panwar</strong>, Galgotias University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Ashish Kumar</strong>, VIPS-TC, School of Engineering & Technology, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Ashish Kumar</strong>, Bennett University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Ashutosh Gupta</strong>, Delhi Technological University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr Jaspreet Kaur</strong>, JSS,Noida (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Deepak Kumar Sharma</strong>, IGDTUW (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Kaushik Ghosh</strong>, School of Computer Science, UPES. (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Bimlesh Wadhwa</strong>, National University of Singapore (Singapore)</li>
+                <li class="px-3 py-2"><strong>Dr. Veepsa Bhatia</strong>, Southern Mellon University (U. S.)</li>
+                <li class="px-3 py-2"><strong>Dr. Malaya dutta borah</strong>, NIT Silchar, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Alka Singhla</strong>, Jaypee, Noida (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Monika Arora</strong>, BPIT, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Nisha Agarwal</strong>, Maharaja Agrasen Institute of Technology, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Amandeep Kaur</strong>, GTBIT, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Rachna Jain</strong>, JSS, Noida (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Indu Kashyap</strong>, MRIIRS, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Amita mali</strong>, Dcrust, murthal (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Shweta Singhal</strong>, IGDTUW, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Aakanshi Gupta</strong>, Amity University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Xiochun Cheng</strong>, Swansea University, (U.K.)</li>
+                <li class="px-3 py-2"><strong>Dr. Shweta Singh</strong>, Mathworks, Boston (U.S.)</li>
+                <li class="px-3 py-2"><strong>Dr. Anju Bhandai</strong>, PIET Samalkha, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Rattandeep Aneja</strong>, CUIET, Chitkara University (INDIA)</li>
+                <li class="px-3 py-2"><strong>Prof. Vineet Kumar</strong>, Netaji Subas University of Technology, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Prof. Shailendra Kumar</strong>, Delhi Technological University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Arvind Panwar</strong>, Galgotias University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Mr. Amit Dhiman</strong>, HCL Technologies, Texas, (USA)</li>
+                <li class="px-3 py-2"><strong>Dr. Ankur Suri</strong>, University of Washington, (USA)</li>
+                <li class="px-3 py-2"><strong>Dr. Jagadeesh Kadiyam</strong>, IIT Mandi (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Siddharth Panwar</strong>, IIT Mandi, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Prof. Poonam</strong>, Professor, DCRUST, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Jyoti Yadav</strong>, Netaji Subas University of Technology, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Dinesh</strong>, IGDTUW, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Tajindar Singh Arora</strong>, Aligarh Muslim University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Vijay Nath</strong>, BITS, Mesra, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Rajanish Kr. Singh</strong>, IIIT Nagpur, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Mr. Atul Bhargava</strong>, ST Microelectronics, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Prof Navin Rajpal</strong>, GGSIPU, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr Munish rattan</strong>, GNDEC, Ludhiana, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr Manisha Bharti</strong>, NIT, Delhi, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Nidhi Sindhwani</strong>, Amity University, NOIDA, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Deepa Gupta</strong>, Amity University, NOIDA, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Rohit Anand</strong>, G.B. Pant DSEU, OKHLA, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Prof.(Dr.) R. Rama Kishore</strong>, USICT, GGSIPU, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Prof.(Dr.) Harish Rohil</strong>, Dept. of CSE, CDLU , SIRSA (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Anu Saini</strong>, G.B. Pant Engg. college, DSEU, Delhi, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Mamta Kumari</strong>, PIET, Panipat, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Uma Nangia</strong>, Delhi Technological University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Poonam Chaudhary</strong>, The NorthCap University, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Daya Pandey</strong>, University of Leads (England)</li>
+                <li class="px-3 py-2"><strong>Dr. Chico Camargo</strong>, University of Exeter, (England)</li>
+                <li class="px-3 py-2"><strong>Mr. Vineet Aggarwal</strong>, RENXO Technologies, (INDIA)</li>
+                <li class="px-3 py-2"><strong>Dr. Prabhaker Mateti</strong>, Wright State University (USA)</li>
+                <li class="px-3 py-2"><strong>Prof. Richard Chbeir</strong>, Université de Pau et des Pays de l'Adour (UPPA), Anglet (FRANCE)</li>
+                <li class="px-3 py-2"><strong>Prof. Mohamed Hamada</strong>, The University of Aizu, Fukushima (JAPAN)</li>
+                <li class="px-3 py-2"><strong>Prof. Xiochun Cheng</strong>, Swansea University (United Kingdom)</li>
+                <li class="px-3 py-2"><strong>Prof. Joan Lu</strong>, University of Huddersfield (United Kingdom)</li>
             </ul>
 </div>

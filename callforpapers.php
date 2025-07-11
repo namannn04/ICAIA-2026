@@ -1,7 +1,3 @@
-<div id="callforpapers" class="h-16 bg-white w-full font-sans">
-
-</div>
-
 <div class='w-full text-white'>
   <div class='bg-blue-400 px-[8%] md:px-[15%]'>
     <div>

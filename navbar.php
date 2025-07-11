@@ -46,7 +46,7 @@
           <a class="hover:text-blue-600 ease-in-out duration-200" href="#privacy">Privacy policy</a>
         </div>
       </li>
-      <li class="lg:ml-4 md:ml-2 md:text-[8px] lg:text-[7.5px] xl:text-lg leading-5 md:my-0 my-7 hover:bg-slate-300 rounded-xl transition-all nav-link cursor-pointer">Schedule
+      <li class="lg:ml-4 md:ml-2 md:text-[8px] lg:text-[7.5px] xl:text-lg leading-5 md:my-0 my-7 hover:bg-slate-300 rounded-xl transition-all nav-link cursor-pointer"><a href="#schedule">Schedule</a>
 
         <!-- <a href="https://drive.google.com/file/d/1QuKQwksaMKpZ2TTDtTboOXlrjbCmFJp8/view?usp=drive_link" class="nav-link">Schedule</a> -->
       </li>

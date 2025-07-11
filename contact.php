@@ -47,7 +47,7 @@
           </div>
           <div class="text-center">
             <h1 class="text-gray-400 text-[22px] font-[500] mt-6">
-              ICAIA2026@msit.in
+              icaia_2026@msit.in
             </h1>
           </div>
         </div>

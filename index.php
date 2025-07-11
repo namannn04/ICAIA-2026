@@ -46,10 +46,9 @@
   <?php include("./tracks.php") ?>
   <?php include("./sponsorship.php") ?>
   <?php include("./submissions.php") ?>
-  <!-- <?php include("./schedule.php") ?> -->
+  <?php include("./schedule.php") ?>
   <?php include("./registrations.php") ?>
   <?php include("./callforpapers.php") ?>
-  <?php include("./dates.php") ?>
   <?php include("./institute.php") ?>
   <?php include("./video.php") ?>
   <?php include("./contact.php") ?>

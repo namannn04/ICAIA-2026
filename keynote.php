@@ -1,9 +1,9 @@
 <!-- <div class="h-8 bg-white w-full font-sans">
 
 </div> -->
-<div id="overview" class="w-full h-full flex items-center select-none justify-center bg-gray-100/80 select-none blur-sm mt-10">
+<!-- <div id="overview" class="w-full h-full flex items-center select-none justify-center bg-gray-100/80 select-none blur-sm mt-10">
     <h2 class='text-center text-4xl md:text-3xl z-50 blur-sm text-gray-500 font-semibold'>✨ Revealing Soon keyNote Figures !!</h2>
-</div>
+</div> -->
 <!-- <div class='w-full'>
       <div class='bg-[#e9 e9e9] bg-white px-[15%]'>
       <div>

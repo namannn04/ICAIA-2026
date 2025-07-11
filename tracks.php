@@ -1,6 +1,6 @@
 <div id="tracks">
     <div class="w-full">
-        <div class=' bg-white pt-12 md:px-[10%]'>
+        <div class=' bg-white pt-12 pb-12 md:px-[10%]'>
             <div class='pt-16'>
                 <h1 class='text-[#c00000] text-center text-3xl font-[600]'>TRACKS</h1>
                 <div class='w-[80px] h-[2px] mx-auto mt-2 bg-[#365372] rounded-xl mb-8'></div>
@@ -68,24 +68,6 @@
                             <li class="px-3 py-1">● Simulation and Control of Intelligent Robots</li>
                         </ul>
                     </li>
-
-
-                    <!-- <li class="relative">
-                        <button type="button"
-                            class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
-                            onclick="toggleDropdown('track5')">
-                            Track V: Knowledge Representation
-                        </button>
-                        <ul id="track5"
-                            class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
-                            <li class="px-3 py-1">● Web Intelligence Applications and Search</li>
-                            <li class="px-3 py-1">● Semantic Web Techniques and Technologies</li>
-                            <li class="px-3 py-1">● Information Retrieval</li>
-                            <li class="px-3 py-1">● Connectivity and Networking</li>
-                            <li class="px-3 py-1">● Ontology</li>
-                            <li class="px-3 py-1">● Reasoning about Knowledge and Belief</li>
-                        </ul>
-                    </li> -->
                     <li class="relative">
                         <button type="button"
                             class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"

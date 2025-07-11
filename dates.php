@@ -1,8 +1,8 @@
-<div id="dates" class="w-full h-full flex items-center select-none justify-center bg-gray-100/80 select-none blur-sm mt-10">
-    <h2 class='text-center text-3xl md:text-4xl z-50 blur-sm text-gray-500 font-semibold'>✨ Revealing Soon Dates !!</h2>
+<div id="dates">
+    <!-- <h2 class='text-center text-3xl md:text-4xl z-50 blur-sm text-gray-500 font-semibold'>✨ Revealing Soon Dates !!</h2> -->
 </div>
 
-<!-- <div class='w-full'>
+<div class='w-full'>
     <div class='bg-white px-[5%] md:px-[15%]'>
         <div>
             <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>IMPORTANT DATES</h1>
@@ -29,7 +29,7 @@
                 <div class="block">25th February, 2025</div>
                 <div class="block"><s>20th January, 2025</s></div>
             </div>
-            
+
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">Camera Ready Submission and Registration</div>
@@ -42,4 +42,4 @@
             <div class="w-1/2 text-center">26-27th March 2025</div>
         </div>
     </div>
-</div> -->
+</div>

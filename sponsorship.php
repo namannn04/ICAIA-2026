@@ -46,6 +46,26 @@
                         <img class="w-full h-full object-contain" src="images/sp8.jpg" alt="Sponsor 5">
                     </div>
                 </div>
+                <div class="w-48 h-48 text-center">
+                    <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
+                        <img class="w-full h-full object-contain" src="images/aicte.jpeg" alt="Sponsor 6">
+                    </div>
+                </div>
+                <div class="w-48 h-48 text-center">
+                    <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
+                        <img class="w-full h-full object-contain" src="images/Meity.avif" alt="Sponsor 7">
+                    </div>
+                </div>
+                <div class="w-48 h-48 text-center">
+                    <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
+                        <img class="w-full h-full object-contain" src="images/CSIR.png" alt="Sponsor 8">
+                    </div>
+                </div>
+                <div class="w-48 h-48 text-center">
+                    <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
+                        <img class="w-full h-full object-contain" src="images/ISTE.png" alt="Sponsor 1">
+                    </div>
+                </div>
             </div>
         </div>
     </div>

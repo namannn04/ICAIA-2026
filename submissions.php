@@ -1,53 +1,103 @@
-<!-- <div id="submissions" class="h-16 bg-white w-full font-sans">
-  Submissions section top divider (preserved, untouched) -->
-<!-- </div> -->
+<div id="submissions" class="w-full text-white bg-blue-400 px-6 md:px-24 py-20">
+  <div class="max-w-4xl mx-auto text-justify">
+    <!-- Heading -->
+    <h1 class="text-[#c00000] text-3xl font-semibold text-center pt-6">SUBMISSIONS</h1>
+    <div class="w-28 h-[3px] bg-[#365372] mx-auto mt-2 rounded-xl"></div>
 
-<div id="submissions" class="w-full text-white text-justify">
-  <div class="bg-blue-400 px-[8%] md:px-[15%] py-20 blur-sm  text-center relative">
+    <!-- Instruction -->
+    <h2 class="text-xl md:text-2xl italic font-bold text-center mt-12">INSTRUCTION TO AUTHORS</h2>
 
-    <!-- 🔒 Original content is safely commented below -->
-    <!-- 
-    <div>
-      <h1 class='text-[#c00000] pt-12 text-center text-3xl font-[600]'>SUBMISSIONS</h1>
-      <div class='w-[110px] h-[3px] mx-auto mt-2 bg-[#365372] rounded-xl'></div>
+    <div class="mt-4 space-y-4 text-lg">
+      <p>
+        Manuscripts, referred as submissions/articles/papers, are substantial pieces of academic writing.
+        Manuscripts for ICAIA-2026 will <strong>ONLY</strong> be accepted in electronic format through the Microsoft CMT online submission system.
+      </p>
+
+      <p>
+        Original unpublished Research Papers, Articles & Working Papers (minimum 6 pages) related to the conference theme are invited for presentation/publication.
+      </p>
+
+      <ul class="list-decimal pl-5 space-y-2">
+        <li>
+          Kindly ensure that your paper follows the
+          <a href="#" class="text-blue-600 underline bg-yellow-200 px-1" download>IEEE Guidelines</a>
+          (minimum 6 pages, A4 size).
+        </li>
+        <li>
+          All papers must be submitted online via:
+          <span class="block">
+            <a href="#" class="underline font-bold text-yellow-200 break-words">(Link will be uploaded soon)</a>
+          </span>
+        </li>
+        <li>
+          All submissions will be thoroughly peer-reviewed based on originality, significance, and clarity.
+        </li>
+        <li>
+          Only original papers with novel research or innovative applications will be considered for publication in IEEE Xplore.
+        </li>
+      </ul>
     </div>
-    <strong class='text-md md:text-xl  mt-8 pb-2 italic font-[750]'>
-      INSTRUCTION TO AUTHORS
-    </strong>
-    <p class="text-lg">Manuscripts, which are here referred as submissions/ articles/ papers are the substantial piece of academic writing. Manuscripts for ICAIA-2025 will ONLY be accepted in electronic format through Microsoft CMT online submission system.</p>
-    <br>
-    <p class="underline font-bold text-lg text-yellow-200 break-words"><a href="https://cmt3.research.microsoft.com/ICAIA2025/Submission/Index">https://cmt3.research.microsoft.com/ICAIA2025/Submission/Index</a></p>
-    <br>
-    <p class="text-lg">The Original unpublished Research Papers, Articles & Working papers having minimum length 10 pages on the topics related to the theme are invited for presentation/publication in the conference proceedings.</p>
 
-    <div class="pl-3 text-lg mt-3" id="submissionsText">
-      <p>1. Kindly ensure that your paper is formatted as per <a class="text-blue-500 bg-yellow-200" href="assets/springer_guidelines.pdf" download>Springer Guidelines</a> (minimum 10 pages written in A4 size). Please refer the attached springer template for preparation of your paper.<a class="text-blue-500 bg-yellow-200" href="assets/Template.docm" download>(Springer Template)</a></p>
-      <p>2. All papers must be submitted online via : <br> <a class="underline font-bold text-lg text-yellow-200 break-words" href="https://cmt3.research.microsoft.com/ICAIA2025/Submission/Index">https://cmt3.research.microsoft.com/ICAIA2025/Submission/Index</a></p>
-      <p id="plagiarism">3. All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.</p>
-      <p>4. Only papers presenting original content with novel research results or successful innovative applications will be considered for publication in the conference proceeding which will be published in the Springer book series Algorithm of Intelligent System (AIS).</p>
+    <!-- Plagiarism Section -->
+    <div class="mt-10 space-y-4">
+      <h2 class="text-xl md:text-2xl italic font-bold">PLAGIARISM CHECK & REVIEW PROCESS:</h2>
+
+      <h3 class="text-xl italic font-bold">Plagiarism Check:</h3>
+      <p>
+        All accepted papers will be screened using iThenticate to assess similarity with previously published content.
+      </p>
+
+      <h3 class="text-xl italic font-bold">Immediate Rejection:</h3>
+      <p>Papers with a high similarity index or overlapping content will be rejected outright.</p>
+
+      <h3 class="text-xl italic font-bold">Review Process:</h3>
+      <p>
+        Submissions that pass the plagiarism check will undergo a double-blind peer review, based on:
+      </p>
+      <ul class="list-disc pl-5">
+        <li>Technical quality</li>
+        <li>Relevance to conference topics</li>
+        <li>Originality & contribution</li>
+        <li>Clarity of presentation</li>
+      </ul>
     </div>
 
-    <strong class='text-md md:text-xl  pt-6 pb-2 italic font-[750]'>
-      PLAGIARISM POLICY:
-    </strong>
-    <p class="text-lg">1. &nbsp;The paper prior to submission should be checked for plagiarism from licensed plagiarism softwares like Turnitin/ithenticate etc. The similarity content should not exceed 15% (in any case either self contents or others). Further, you have to strictly implement the following ethical guidelines for publication.</p>
-    <p id="privacy" class="text-lg">2. &nbsp;Any form of self-plagiarism or plagiarism from others' work(s) should not be there in an article. If any model / concept / figure / table / data / conclusive comment by any previously published work is used in your article, you should properly cite a reference to the original work.</p>
-    <p class="text-lg">3. &nbsp;Also language of explaining it should not be same as language of the work from which you have adopted it. If you are using any copyrighted material, you should acquire prior permission from the copyright holder.</p>
+    <!-- Notification -->
+    <div class="mt-10 space-y-4">
+      <h2 class="text-xl md:text-2xl italic font-bold">FINAL NOTIFICATION:</h2>
 
-    <strong class='text-md md:text-xl pt-4 pb-2 italic font-[750] mt-6'>
-      PRIVACY POLICY:
-    </strong>
-    <p class="text-lg pb-16">Consent to Use Photographic, Video and Audio Recordings: Conference official photographers will be taking photographs, recording video or making audio recordings during the Conference. The photographs, videos, and audio recordings will be used for Conference-related activities included in the promotional material, in both print and electronic format, including on the Internet via MSIT website and Social media for Conference purpose only. <br>
-      By registering for a specific event, you agree to ICAIA 2025’s processing of the personal data you submit as part of registration for the following purposes: <br>
-      1. to communicate with you regarding the specific event for which you registered <br>
-      2. for our internal reporting purposes <br>
-      3. as reasonably necessary for the management and organization of the specific event for which you registered <br>
-      By registering for a specific event, you agree that ICAIA 2025 may disclose the personal data you submit as part of registration to will be limited to: <br>
-      4. co-organizers of the event as reasonably necessary for the management and organization of the specific event for which you registered <br>
-      For any other questions regarding the processing of your personal data, contact to <a href="mailto:conference2025@msit.in">conference2025@msit.in</a>
-    </p>
-    -->
+      <h3 class="text-xl italic font-bold">Author Notification:</h3>
+      <p>
+        Decisions will be emailed to the corresponding author based on reviewers' feedback.
+      </p>
 
-    <h1 class="text-4xl font-bold text-white blur-none animate-pulse">Revealing soon Submissions</h1>
+      <h3 class="text-xl italic font-bold">DECISION CATEGORIES:</h3>
+      <ul class="list-disc pl-5">
+        <li>Accepted – You’ll receive an official acceptance letter.</li>
+        <li>Accepted with Minor Revisions – Requires small edits before approval.</li>
+        <li>Accepted with Major Revisions – Needs significant updates before approval.</li>
+        <li>Rejected – Not suitable for publication.</li>
+      </ul>
+    </div>
+
+    <!-- Privacy Policy -->
+    <div class="mt-10 space-y-4 pb-16">
+      <h2 class="text-xl md:text-2xl italic font-bold">PRIVACY POLICY:</h2>
+      <p>
+        By registering for the conference, you agree that photos, videos, or audio recordings taken during the event may be used in promotional material (including websites and social media).
+      </p>
+
+      <p>You also consent to ICAIA 2026 processing your registration data for:</p>
+      <ul class="list-decimal pl-5">
+        <li>Event communication</li>
+        <li>Internal reporting</li>
+        <li>Event management & organization</li>
+      </ul>
+
+      <p>
+        Data may be shared with co-organizers as necessary. For data concerns, contact:
+        <a href="mailto:icaia_2026@msit.in" class="text-blue-900 underline">icaia_2026@msit.in</a>
+      </p>
+    </div>
   </div>
 </div>

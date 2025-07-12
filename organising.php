@@ -46,7 +46,7 @@
     </button>
     <ul id="technical_review_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof. Naveen Dahiya</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
+        <strong>Prof. S.S. Agrawal</strong>, Emeritus Scientist, CSIR (Retd.)
       </li>
     </ul>
   </li>
@@ -56,7 +56,7 @@
     </button>
     <ul id="program_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof. S.S. Agrawal</strong>, Emeritus Scientist, CSIR (Retd.)
+        <strong>Prof. Naveen Dahiya</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
       <li class="px-3 py-2">
         <strong>Prof. Puneet Azad</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA

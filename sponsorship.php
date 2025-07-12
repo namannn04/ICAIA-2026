@@ -13,11 +13,6 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8 items-center justify-items-center max-w-6xl mx-auto">
                 <div class="w-48 h-48 text-center">
                     <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
-                        <img class="w-full h-full object-contain" src="images/sp4.jpg" alt="Sponsor 1">
-                    </div>
-                </div>
-                <div class="w-48 h-48 text-center">
-                    <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
                         <img class="w-full h-full object-contain" src="images/sp6.jpg" alt="Sponsor 2">
                     </div>
                 </div>
@@ -44,6 +39,16 @@
                 <div class="w-48 h-48 text-center">
                     <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
                         <img class="w-full h-full object-contain" src="images/sp8.jpg" alt="Sponsor 5">
+                    </div>
+                </div>
+                <div class="w-48 h-48 text-center">
+                <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
+                    <img class="w-full h-full object-contain" src="images/CSIR.png" alt="Sponsor 8">
+                </div>
+                </div>
+                <div class="w-48 h-48 text-center">
+                    <div class="w-full h-full rounded-full border-4 border-gray-300 shadow-lg overflow-hidden bg-white p-2 hover:shadow-xl transition duration-300">
+                        <img class="w-full h-full object-contain" src="images/ISTE.png" alt="Sponsor 1">
                     </div>
                 </div>
 

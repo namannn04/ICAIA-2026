@@ -6,14 +6,6 @@ Welcome to the official repository for **ICAIA 2026**, the International Confere
 
 ---
 
-## 📌 Table of Contents
-
-- [About](#about)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-
----
-
 ## 📖 About
 
 **ICAIA 2026** (International Conference on Advances in Information Technology) is a global platform for researchers, academicians, and industry professionals to present their latest innovations and exchange ideas. The website serves as the digital gateway for the conference, providing comprehensive details such as:

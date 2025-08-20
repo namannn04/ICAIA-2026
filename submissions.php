@@ -26,8 +26,10 @@
         <li>
           All papers must be submitted online via:
           <span class="block">
-            <a href="#" class="underline font-bold text-yellow-200 break-words">(Link will be uploaded soon)</a>
+            <a href="https://cmt3.research.microsoft.com/ICAIA2026" class="underline font-bold text-yellow-200 break-words">https://cmt3.research.microsoft.com/ICAIA2026</a>
           </span>
+          CMT Submission Acknowledgement
+          The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
         </li>
         <li>
           All submissions will be thoroughly peer-reviewed based on originality, significance, and clarity.

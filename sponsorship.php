@@ -1,4 +1,4 @@
-<div class="h-8 bg-white w-full font-sans">
+<!-- <div class="h-8 bg-white w-full font-sans">
 
 </div>
 <div class="w-full" id="sponsor">
@@ -86,4 +86,4 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->

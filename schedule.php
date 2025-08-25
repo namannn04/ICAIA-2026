@@ -31,7 +31,7 @@
         <div class="w-1/2 text-center">30th June, 2026</div>
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3">
-        <div class="w-1/2 text-center">Registeration Deadline</div>
+        <div class="w-1/2 text-center">Registration Deadline</div>
         <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
         <div class="w-1/2 text-center">31st August, 2026</div>
       </div>

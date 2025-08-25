@@ -30,10 +30,10 @@
                     <li class="relative">
                         <button type="button"
                             class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
-                            onclick="toggleDropdown('track3')">
+                            onclick="toggleDropdown('track2')">
                             Track II: AI for IoT Applications
                         </button>
-                        <ul id="track3"
+                        <ul id="track2"
                             class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                             <li class="px-3 py-1">● Edge AI and Fog Computing for IoT</li>
                             <li class="px-3 py-1">● AI-driven Smart Homes and Smart Cities</li>
@@ -51,10 +51,10 @@
                     <li class="relative">
                         <button type="button"
                             class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
-                            onclick="toggleDropdown('track4')">
+                            onclick="toggleDropdown('track3')">
                             Track III: Robotics & AI
                         </button>
-                        <ul id="track4"
+                        <ul id="track3"
                             class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                             <li class="px-3 py-1">● Autonomous Robots and Navigation Systems</li>
                             <li class="px-3 py-1">● Reinforcement Learning for Robotics</li>
@@ -71,10 +71,10 @@
                     <li class="relative">
                         <button type="button"
                             class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
-                            onclick="toggleDropdown('track6')">
+                            onclick="toggleDropdown('track4')">
                             Track IV: AI for Human Machine Interaction
                         </button>
-                        <ul id="track6"
+                        <ul id="track4"
                             class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                             <li class="px-3 py-1">● Natural Language Understanding and Dialogue Systems</li>
                             <li class="px-3 py-1">● Affective Computing and Emotion Recognition</li>
@@ -91,10 +91,10 @@
                     <li class="relative">
                         <button type="button"
                             class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
-                            onclick="toggleDropdown('track2')">
+                            onclick="toggleDropdown('track5')">
                             Track V: Deep AI & Neural Networks
                         </button>
-                        <ul id="track2"
+                        <ul id="track5"
                             class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                             <li class="px-3 py-1">● Convolutional Neural Networks (CNNs)</li>
                             <li class="px-3 py-1">● Recurrent Neural Networks (RNNs) and LSTMs</li>
@@ -111,10 +111,10 @@
                     <li class="relative">
                         <button type="button"
                             class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
-                            onclick="toggleDropdown('track7')">
+                            onclick="toggleDropdown('track6')">
                             Track VI: Pattern Matching and Speech Recognition
                         </button>
-                        <ul id="track7"
+                        <ul id="track6"
                             class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                             <li class="px-3 py-1">● Automatic Speech Recognition (ASR)</li>
                             <li class="px-3 py-1">● Speaker Identification and Verification</li>

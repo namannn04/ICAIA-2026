@@ -28,7 +28,9 @@
           <span class="block">
             <a href="https://cmt3.research.microsoft.com/ICAIA2026" class="underline font-bold text-yellow-200 break-words">https://cmt3.research.microsoft.com/ICAIA2026</a>
           </span>
-          CMT Submission Acknowledgement
+          <br />
+          <strong>CMT Submission Acknowledgement</strong>
+          <br />
           The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
         </li>
         <li>

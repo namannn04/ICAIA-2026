@@ -82,9 +82,6 @@
         <strong>Prof. Dheeraj Joshi</strong>, Professor, Delhi Technological University, New Delhi, INDIA
       </li>
       <li class="px-3 py-2">
-        <strong>Mr. Pradeep Kumar Balyan</strong>, Co-Founder & Chief Marketing Officer, Blueprint360
-      </li>
-      <li class="px-3 py-2">
         <strong>Dr. Nishtha Jatana</strong>, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
     </ul>

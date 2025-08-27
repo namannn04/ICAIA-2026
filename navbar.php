@@ -25,11 +25,6 @@
           <a class="hover:text-blue-600 ease-in-out duration-200" href="#aboutUs">About Institute</a>
         </div>
       </li>
-  <li class="lg:ml-4 md:ml-2 md:text-[15px] lg:text-[16px] xl:text-xl  leading-5 md:my-0 my-7 hover:bg-slate-300 rounded-xl transition-all">
-        <a href="#sponsor" class="nav-link">Sponsorship</a>
-        <!-- <a href="https://drive.google.com/file/d/1uRSmyXgDBtrkhl_FiAg3RvrnLbgn9RIb/view?usp=drive_link" target="#" class="nav-link">Sponsorship</a> -->
-        <!-- <a onclick= "sponsor()" style="cursor: pointer;">Sponsorship</a> -->
-      </li>
   <li class="lg:ml-6 md:ml-2 md:text-[15px] lg:text-[16px] xl:text-xl  leading-5 md:my-0 my-7 hover:bg-slate-300 rounded-xl transition-all">
         <a href="#committee" class="nav-link">Committees</a>
       </li>

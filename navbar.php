@@ -3,7 +3,7 @@
     <div class="cursor-pointer ">
       <a href="/">
         <div class="flex justify-left">
-          <div><img class='z-10 h-[60px] w-[70px] mt-2 md:relative md:right-8' src="https://www.msit.in/static/img/msit.png" alt="MSIT_logo" /></div>
+          <div><img class='z-10 h-[60px] w-[70px] mt-2 md:relative md:right-8' src="./images/msit_logo.png" alt="MSIT_logo" /></div>
           <!-- <div><img class='z-10 w-[80px] ml-2' src="./images/witLogo.png" alt="WIT_logo" /></div> -->
           <!-- <div><img class='z-10 w-[100px] ml-2 md:hidden' src="./images/springer.png" alt="Springer_logo" /></div> -->
           <!-- <img class='z-10 w-[110px] my-4 px-2 ml-4' src="./images/springer-logo.svg" alt="" /> -->
@@ -58,7 +58,7 @@
           <br />
           <a class="hover:text-blue-600 ease-in-out duration-200" href="2025/index.php">ICAIA 2025</a>
           <br />
-          <a class="hover:text-blue-600 ease-in-out duration-200" href="#video">ICAIA 2020</a>
+          <a class="hover:text-blue-600 ease-in-out duration-200" href="2020/index.php">ICAIA 2020</a>
         </div>
       </li>
       <li class="lg:ml-3 md:ml-1 md:text-[15px] lg:text-[16px] xl:text-xl md:my-0 my-7 md:text-center hover:bg-slate-300 rounded-xl transition-all">

@@ -23,7 +23,7 @@
           <br />
           Manuscript should be prepared in a double column, single-spaced format using a required IEEE Access template. A Word or LaTex file and a PDF file are both required upon submission. Content on each file must match exactly. File sizes should not exceed 40MB.  Download IEEE Access Templates for Microsoft Word and LaTex.
           <br />
-            <a href="assets/Access-Template-2024.docx" class="underline font-bold text-yellow-200 break-words" download target="_blank">Template</a>
+            <a href="assets/IEEE-ConfPaper-Template-Word.doc" class="underline font-bold text-yellow-200 break-words" download target="_blank">Template</a>
         </li>
         <li>
           All papers must be submitted online via:

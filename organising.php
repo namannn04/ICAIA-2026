@@ -9,7 +9,7 @@
       </button>
       <ul id="patrons_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <li class="px-3 py-2">
-        <li class="px-3 py-2"><strong> Prof. S.K. Garg</strong>, <strong>(Director)</strong>, Delhi Technological University, New Delhi, INDIA</li>
+        <li class="px-3 py-2"><strong> Prof. S.K. Garg</strong>, <strong>Director</strong>, East Delhi Campus, Delhi Technological University</li>
     </li>
   </ul>
   </li>

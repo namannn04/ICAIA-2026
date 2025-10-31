@@ -1,6 +1,7 @@
 <div class='z-[-1] pt-[90px]'>
-  <div class="flex justify-evenly items-center">
-    <img class="w-[150px] mx-auto " src="./images/icaiaLogo.png" alt="">
+  <div class="flex justify-center items-center gap-5">
+    <img class='w-[110px]' src="./images/msit_logo.png" alt="MSIT_logo" />
+    <img class="w-[150px]" src="./images/icaiaLogo.png" alt="ICAIA Logo">
   </div>
   <div class='mx-[5%] md:mx-[15%] py-6 my-10 rounded-xl shadow border-2 border-white' style='background-color: rgba(255, 255, 255, 0.6);'>
     <div class='text-center text-white text-xl md:text-2xl lg:text-3xl font-[700] mx-auto'>

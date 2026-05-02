@@ -7,13 +7,14 @@
       <ul id="patrons_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <li class="px-3 py-2">
         <li class="px-3 py-2"><strong> Prof. S.K. Garg</strong>, <strong>Director</strong>, East Delhi Campus, Delhi Technological University</li>
+        <li class="px-3 py-2"><strong> Prof. M.N. Hoda</strong>, <strong>Director BVICAM</strong>, New Delhi (Chairperson, IEEE Delhi Section)</li>
     </li>
   </ul>
   </li>
 
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('organising_chair_dropdown')">
-      Convenor
+      Conference Chair
     </button>
     <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <h1><span class="font-semibold">Prof. Archana Balyan</span>, Director, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
@@ -23,7 +24,7 @@
   </li>
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('convener_dropdown')">
-      Co-Convenor
+      Conference Co-Chair
     </button>
     <ul id="convener_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">

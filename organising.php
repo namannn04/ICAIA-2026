@@ -7,7 +7,7 @@
       <ul id="patrons_tab_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <li class="px-3 py-2"><span class="font-semibold">Chief Patrons:-</span></li>
         <li class="px-3 py-2">Sh. Kaptan Singh (President), SMES, New Delhi</li>
-        <li class="px-3 py-2">Ms. Esha Jahhar (Vice President), SMES, New Delhi</li>
+        <li class="px-3 py-2">Ms. Esha Jakhar (Vice President), SMES, New Delhi</li>
         <li class="px-3 py-2">Sh. Ajit Singh Chaudhary (Secretary), SMES, New Delhi</li>
         <li class="px-3 py-2">Sh. Raj Pal Solanki (Treasurer), SMES, New Delhi</li>
         <li class="px-3 py-2"><span class="font-semibold">Patrons:-</span></li>

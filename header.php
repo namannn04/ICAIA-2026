@@ -46,9 +46,37 @@
 
   <div class='mx-[5%] md:mx-[15%] py-6 my-10 rounded-xl shadow border-2 border-white' style='background-color: rgba(255, 255, 255, 0.6);'>
     <div class='text-center text-2xl font-[700]'>
-      <h1 class='text-[#c00000] text-3xl z-10 tracking-widest font-bold text-border event-date text-2xl sm:text-1xl md:text-2xl lg:text-3xl'>
+      <h1 id="header-rotating-text" class='text-[#c00000] text-3xl z-10 tracking-widest font-bold text-border event-date text-2xl sm:text-1xl md:text-2xl lg:text-3xl transition-opacity duration-500'>
         Conference dates :- 19th-20th November, 2026
       </h1>
     </div>
   </div>
 </div>
+
+<script>
+  (function () {
+    var rotatingText = document.getElementById("header-rotating-text");
+    if (!rotatingText) {
+      return;
+    }
+
+    var messages = [
+      "Conference dates :- 19th-20th November, 2026",
+      "Last date of submission of papers will not be extended further."
+    ];
+
+    var currentIndex = 0;
+    var displayDurationMs = 3500;
+    var fadeDurationMs = 500;
+
+    setInterval(function () {
+      currentIndex = (currentIndex + 1) % messages.length;
+      rotatingText.style.opacity = "0";
+
+      setTimeout(function () {
+        rotatingText.textContent = messages[currentIndex];
+        rotatingText.style.opacity = "1";
+      }, fadeDurationMs);
+    }, displayDurationMs + fadeDurationMs);
+  })();
+</script>

@@ -1,10 +1,24 @@
 <div class="mx-auto md:ml-0 w-[90%] md:w-[300px]">
   <ul class="space-y-2">
     <li class="relative">
+      <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('patrons_tab_dropdown')">
+        Patrons
+      </button>
+      <ul id="patrons_tab_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+        <li class="px-3 py-2"><span class="font-semibold">Chief Patrons:-</span></li>
+        <li class="px-3 py-2">Sh. Kaptan Singh (President), SMES, New Delhi</li>
+        <li class="px-3 py-2">Ms. Esha Jahhar (Vice President), SMES, New Delhi</li>
+        <li class="px-3 py-2">Sh. Ajit Singh Chaudhary (Secretary), SMES, New Delhi</li>
+        <li class="px-3 py-2">Sh. Raj Pal Solanki (Treasurer), SMES, New Delhi</li>
+        <li class="px-3 py-2"><span class="font-semibold">Patrons:-</span></li>
+        <li class="px-3 py-2">Prof. (Dr.) Avanish Kumar Srivastava, Director, MSIT</li>
+      </ul>
+    </li>
+    <li class="relative">
       <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('patrons_dropdown')">
         General Chair
       </button>
-      <ul id="patrons_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+      <ul id="patrons_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
         <li class="px-3 py-2"><strong> Prof. S.K. Garg</strong>, <strong>Director</strong>, East Delhi Campus, Delhi Technological University</li>
         <li class="px-3 py-2"><strong> Prof. M.N. Hoda</strong>, <strong>Director BVICAM</strong>, New Delhi (Chairperson, IEEE Delhi Section)</li>
@@ -16,7 +30,7 @@
     <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('organising_chair_dropdown')">
       Conference Chair
     </button>
-    <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+    <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <h1><span class="font-semibold">Prof. Archana Balyan</span>, Director, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
       </li>
   </li>

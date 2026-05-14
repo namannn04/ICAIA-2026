@@ -65,5 +65,20 @@
                 <li class="px-3 py-2"><strong>Prof. Mohamed Hamada</strong>, The University of Aizu, Fukushima (JAPAN)</li>
                 <li class="px-3 py-2"><strong>Prof. Xiochun Cheng</strong>, Swansea University (United Kingdom)</li>
                 <li class="px-3 py-2"><strong>Prof. Joan Lu</strong>, University of Huddersfield (United Kingdom)</li>
+                <li class="px-3 py-2"><strong>Laxmana Murthy Durwasa</strong>, Sr Workday Techno Functional Consultant, DART, Texas</li>
+                <li class="px-3 py-2"><strong>Dr Piyush Raja</strong>, Professor, Vishun Roy College, Bhagwanpur, Vaishali</li>
+                <li class="px-3 py-2"><strong>Pushpalika Chatterjee</strong>, Huntington National Bank, Ohio</li>
+                <li class="px-3 py-2"><strong>Sandeep Chittimalli</strong>, Senior Member IEEE, USA</li>
+                <li class="px-3 py-2"><strong>Shashank Shelat</strong>, Staff Security Engineer Lucid Motors, USA</li>
+                <li class="px-3 py-2"><strong>Sadiq Adamu Abubakar</strong>, Founder &amp; CEO, GldCart</li>
+                <li class="px-3 py-2"><strong>Hari Rowtu</strong>, CEO, Faturity, USA</li>
+                <li class="px-3 py-2"><strong>Nishant Arora</strong>, Solutions Architect at Amazon Web Services(AWS) San Francisco</li>
+                <li class="px-3 py-2"><strong>Swapnil Nagar</strong>, Lead Software development engineer, Microsoft, USA</li>
+                <li class="px-3 py-2"><strong>Aaresh Sharma</strong>, Sr. Specialist AWS, USA</li>
+                <li class="px-3 py-2"><strong>Nitesh Khapekar</strong>, Data Engineering Manager, AWS, USA</li>
+                <li class="px-3 py-2"><strong>Megha Agarwal</strong>, BPIT, New Delhi</li>
+                <li class="px-3 py-2"><strong>Gurmeet Singh</strong>, GTBIT, New Delhi</li>
+                <li class="px-3 py-2"><strong>Gautam</strong>, Maharishi University of Information Technology, Noida</li>
+                <li class="px-3 py-2"><strong>Gaytri Dhingra</strong>, GVMITM Murthal</li>
             </ul>
 </div>

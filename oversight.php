@@ -49,10 +49,10 @@
 <div class="mt-8">
   <ul class="mx-3 md:ml-32">
 
-    <li class="px-3 py-2"><strong>Prof. Sneha Kabra</strong>, Lead Member Coordinator</li>
-    <li class="px-3 py-2"><strong>Prof. Rajnish Sharma</strong></li>
-    <li class="px-3 py-2"><strong>Prof. Vivek Shrivastava</strong></li>
-    <li class="px-3 py-2"><strong>Dr. Ekta Gandotra</strong></li>
+    <li class="px-3 py-2"><strong>Prof. Sneha Kabra</strong>, Lead Member Coordinator (Member, IEEE Delhi Section)</li>
+    <li class="px-3 py-2"><strong>Prof. Rajnish Sharma (Member, IEEE Delhi Section)</strong></li>
+    <li class="px-3 py-2"><strong>Prof. Vivek Shrivastava (Member, IEEE Delhi Section)</strong></li>
+    <li class="px-3 py-2"><strong>Dr. Ekta Gandotra (Member, IEEE Delhi Section)</strong></li>
 
   </ul>
 

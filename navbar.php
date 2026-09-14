@@ -73,7 +73,7 @@
 
 <style>
 *{box-sizing:border-box}
-nav.nb{background:#365372;width:100%;position:fixed;top:0;left:0;z-index:50;font-family:sans-serif}
+nav.nb{background:#42A5F5;width:100%;position:fixed;top:0;left:0;z-index:50;font-family:sans-serif}
 .nb-inner{display:flex;align-items:center;justify-content:space-between;padding:0 24px;height:56px}
 .nb-logo{color:#fff;font-weight:600;font-size:15px;letter-spacing:1px;text-decoration:none}
 .nb-links{display:flex;align-items:center;gap:2px;list-style:none;margin:0;padding:0}
@@ -122,7 +122,7 @@ nav.nb{background:#365372;width:100%;position:fixed;top:0;left:0;z-index:50;font
       <li><a href="#schedule">Schedule</a></li>
       <li><a href="#registrations">Registrations</a></li>
       <li><a href="#callforpapers">Call for papers</a></li>
-      <li><a href="#callforpapers">Call for special session</a></li>
+      <li><a href="#callforspecialsession">Call for special session</a></li>
       <li class="has-drop"><a>Previous Conferences <span class="caret">▾</span></a>
         <div class="drop">
           <a href="2024/index.php">ICAIA 2024</a>

@@ -49,7 +49,9 @@
   <?php include("./schedule.php") ?>
   <?php include("./registrations.php") ?>
   <?php include("./callforpapers.php") ?>
+  <?php include("./callforspecialsession.php") ?>
   <?php include("./institute.php") ?>
+  <?php include("./supporters.php") ?>
   <?php include("./video.php") ?>
   <?php include("./contact.php") ?>
   <?php include("./footer.php") ?>

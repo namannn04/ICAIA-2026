@@ -35,12 +35,12 @@
         <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
         <div class="w-1/2 text-center">5th October, 2026</div>
       </div>
-      <div class="flex   text-md md:text-lg md:text-xl py-3">
+      <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
         <div class="w-1/2 text-center">Camera Ready</div>
         <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
         <div class="w-1/2 text-center">5th October, 2026</div>
       </div>
-      <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
+      <div class="flex   text-md md:text-lg md:text-xl py-3">
         <div class="w-1/2 text-center">Conference Date</div>
         <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
         <div class="w-1/2 text-center">19th-20th November, 2026</div>

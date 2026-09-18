@@ -76,6 +76,7 @@ body{
   }
   .dropdown-menu {
     transition: opacity 0.3s ease, visibility 0.3s ease;
+        z-index: 40;
   }
   .dropdown-menu.hidden {
     opacity: 0;

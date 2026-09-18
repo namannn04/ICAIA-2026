@@ -31,7 +31,7 @@
       Conference Chair
     </button>
     <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-        <h1><span class="font-semibold">Prof. Archana Balyan</span>, Director, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
+        <h1><span class="font-semibold">Prof. Archana Balyan</span>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
       </li>
   </li>
   </ul>

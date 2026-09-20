@@ -81,29 +81,16 @@
         <br />
         <br />
         <!-- Bank Details -->
-        <div class="text-center text-md py-5 px-3 md:text-xl font-bold">
-            Bank Details :
-        </div>
-        <div class="flex text-md md:text-lg md:text-xl text-white bg-blue-400 font-[500] py-3">
-            <div class="w-1/2 text-center">Field</div>
-            <div class="w-1/2 text-center">Information</div>
-        </div>
-        <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/2 text-center">Name</div>
-            <div class="w-1/2 text-center">To be updated soon</div>
-        </div>
-        <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/2 text-center">Bank Name</div>
-            <div class="w-1/2 text-center">To be updated soon</div>
-        </div>
-        <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/2 text-center">Account Number</div>
-            <div class="w-1/2 text-center">To be updated soon</div>
-        </div>
-        <div class="flex text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/2 text-center">IFSC</div>
-            <div class="w-1/2 text-center">To be updated soon</div>
-        </div>
+<div class="text-center text-lg py-5 px-3 md:text-xl font-extrabold">
+  Bank Details
+</div>
+
+<div class="bg-[#e9e9e9] rounded-md py-5 px-6 mb-6 text-center">
+  <p class="text-md md:text-lg font-bold text-black">
+    Bank details for registration payment will be shared with registered
+    participants via their registered email address.
+  </p>
+</div>
         <br />
 
         <br />

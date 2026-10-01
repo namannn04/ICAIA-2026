@@ -28,7 +28,7 @@
       <div class="flex  text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
         <div class="w-1/2 text-center">Acceptance Intimation</div>
         <div class='w-1 h-auto border-r-2 border-white'></div>
-        <div class="w-1/2 text-center">30th September, 2026</div>
+        <div class="w-1/2 text-center"><s>30th September, 2026</s></div>
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3">
         <div class="w-1/2 text-center">Registration Deadline</div>

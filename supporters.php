@@ -10,7 +10,7 @@
     </div>
 
     <!-- Responsive Big Logos Grid -->
-    <div class="grid grid-cols-1 sm:grid-cols-3 items-center justify-items-center gap-10 md:gap-16 lg:gap-24 mt-12 md:mt-20">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 items-center justify-items-center gap-10 md:gap-16 lg:gap-24 mt-12 md:mt-20">
       
       <!-- Logo 1 -->
       <div class="w-full flex justify-center items-center p-4">
@@ -35,6 +35,15 @@
         <img 
           src="./assets/Logo3.jpg" 
           alt="Logo 3" 
+          class="w-full max-w-[240px] sm:max-w-[260px] md:max-w-[320px] lg:max-w-[380px] max-h-32 md:max-h-48 lg:max-h-56 object-contain filter drop-shadow-sm transition-transform duration-300 hover:scale-105"
+        />
+      </div>
+
+      <!-- Logo 4 -->
+      <div class="w-full flex justify-center items-center p-4">
+        <img
+          src="./assets/Logo4.png"
+          alt="All India Council for Technical Education (AICTE)"
           class="w-full max-w-[240px] sm:max-w-[260px] md:max-w-[320px] lg:max-w-[380px] max-h-32 md:max-h-48 lg:max-h-56 object-contain filter drop-shadow-sm transition-transform duration-300 hover:scale-105"
         />
       </div>

@@ -31,14 +31,14 @@
         <div class="w-1/2 text-center"><s>30th September, 2026</s></div>
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3">
-        <div class="w-1/2 text-center">Registration Deadline</div>
+        <div class="w-1/2 text-center">Camera Ready</div>
         <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
         <div class="w-1/2 text-center">18th October, 2026</div>
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-        <div class="w-1/2 text-center">Camera Ready</div>
+        <div class="w-1/2 text-center">Registration Deadline</div>
         <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
-        <div class="w-1/2 text-center">10th October, 2026</div>
+        <div class="w-1/2 text-center">20th October, 2026 (Morning)</div>
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3">
         <div class="w-1/2 text-center">Conference Date</div>

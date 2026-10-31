@@ -37,13 +37,16 @@
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
         <div class="w-1/2 text-center">Registration Deadline</div>
-        <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
-        <div class="w-1/2 text-center">20th October, 2026 (Morning)</div>
+        <div class='w-1 h-auto border-r-2 border-white'></div>
+        <div class="w-1/2 text-center">20th October, 2026 (Registration closed in the morning)</div>
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3">
         <div class="w-1/2 text-center">Conference Date</div>
         <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
         <div class="w-1/2 text-center">19th-20th November, 2026</div>
+      </div>
+      <div class="mt-8 text-center">
+        <a href="assets/session-schedule.pdf" target="_blank" rel="noopener noreferrer" class="text-lg md:text-xl font-[500] text-blue-600 underline hover:text-blue-800">Session schedule</a>
       </div>
     </div>
   </div>

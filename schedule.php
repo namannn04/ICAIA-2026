@@ -37,8 +37,8 @@
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
         <div class="w-1/2 text-center">Registration Deadline</div>
-        <div class='w-1 h-auto border-r-2 border-[#e9e9e9]'></div>
-        <div class="w-1/2 text-center">20th October, 2026 (Morning)</div>
+        <div class='w-1 h-auto border-r-2 border-white'></div>
+        <div class="w-1/2 text-center">20th October, 2026 (Registration closed in the morning)</div>
       </div>
       <div class="flex   text-md md:text-lg md:text-xl py-3">
         <div class="w-1/2 text-center">Conference Date</div>

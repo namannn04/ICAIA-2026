@@ -48,6 +48,15 @@
         />
       </div>
 
+      <!-- Council of Scientific & Industrial Research -->
+      <div class="w-full flex justify-center items-center p-4 lg:col-span-4">
+        <img
+          src="./assets/csir-logo.jpg"
+          alt="Council of Scientific &amp; Industrial Research (CSIR)"
+          class="w-full max-w-[240px] sm:max-w-[260px] md:max-w-[320px] lg:max-w-[380px] max-h-32 md:max-h-48 lg:max-h-56 object-contain"
+        />
+      </div>
+
     </div>
 
   </div>

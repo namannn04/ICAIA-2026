@@ -120,6 +120,7 @@ nav.nb{background:#42A5F5;width:100%;position:fixed;top:0;left:0;z-index:50;font
         </div>
       </li>
       <li><a href="#schedule">Schedule</a></li>
+      <li><a href="assets/proceeding_16_nov_updated.pdf" target="_blank" rel="noopener">Proceedings</a></li>
       <li><a href="#registrations">Registrations</a></li>
       <li><a href="#callforpapers">Call for papers</a></li>
       <li><a href="#callforspecialsession">Call for special session</a></li>
@@ -151,6 +152,7 @@ nav.nb{background:#42A5F5;width:100%;position:fixed;top:0;left:0;z-index:50;font
     <li class="m-sub"><a href="#plagiarism">Plagiarism policy</a></li>
     <li class="m-sub"><a href="#privacy">Privacy policy</a></li>
     <li><a href="#schedule">Schedule</a></li>
+    <li><a href="assets/proceeding_16_nov_updated.pdf" target="_blank" rel="noopener">Proceedings</a></li>
     <li><a href="#registrations">Registrations</a></li>
     <li><a href="#callforpapers">Call for papers</a></li>
     <li><a href="#callforpapers">Call for special session</a></li>
